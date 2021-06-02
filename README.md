@@ -31,4 +31,4 @@ cd jee-demo-maven
 mvn -npr eclipse:eclipse
 ```
 
-Vous pouvez maintenant importer le projet sur eclipse (import>existing maven project).
+Vous pouvez maintenant importer le projet sur eclipse (import>existing maven project). _Ne pas oublier d'ajouter le projet sur le serveur tomcat._
